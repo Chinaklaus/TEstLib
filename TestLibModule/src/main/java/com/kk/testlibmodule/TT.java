@@ -8,7 +8,7 @@ import android.widget.Toast;
  * @date 2022-02-21
  */
 public class TT {
-    public static void Toast(Context context){
+    public static void toast(Context context){
         Toast.makeText(context, "111", Toast.LENGTH_SHORT).show();
     }
 }
